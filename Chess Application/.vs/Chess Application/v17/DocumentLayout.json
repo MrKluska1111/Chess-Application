@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F96A0D8B-8438-B9FD-7AD7-1DE98F442F41}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\gra w szachy\\chess application\\assets\\scripts\\chessman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96A0D8B-8438-B9FD-7AD7-1DE98F442F41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F96A0D8B-8438-B9FD-7AD7-1DE98F442F41}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\gra w szachy\\chess application\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96A0D8B-8438-B9FD-7AD7-1DE98F442F41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96A0D8B-8438-B9FD-7AD7-1DE98F442F41}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\gra w szachy\\chess application\\assets\\scripts\\chessman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96A0D8B-8438-B9FD-7AD7-1DE98F442F41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Chessman.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\Assets\\Scripts\\Chessman.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Chessman.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\Assets\\Scripts\\Chessman.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Chessman.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T15:52:32.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\Assets\\Scripts\\Game.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
               "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\Assets\\Scripts\\Game.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:09:08.889Z",
+              "WhenOpened": "2024-12-23T13:49:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chessman.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\Assets\\Scripts\\Chessman.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chessman.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Gra w szachy\\Chess Application\\Assets\\Scripts\\Chessman.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chessman.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwD0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:48:32.431Z",
               "EditorCaption": ""
             }
           ]
